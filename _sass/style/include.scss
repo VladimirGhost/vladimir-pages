@@ -1,0 +1,12 @@
+.include {
+    &-header {
+        background-color: $header-footer-color;
+        width: 100%;
+        height: $header-height;
+    }
+    &-footer {
+        background-color: $header-footer-color;
+        width: 100%;
+        height: $size-base * 5;
+    }
+}

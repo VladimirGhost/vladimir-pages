@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+/* valiable */
+
+// 1. size
+$size-base: 8px;
+$header-height: $size-base * 10;
+
+// 2. color
+$header-footer-color: #8E44AD;
+
+@import "style/default", "style/include";
